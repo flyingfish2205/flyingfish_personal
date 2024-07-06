@@ -1,0 +1,11 @@
+---
+layout: base.njk
+title: Create Eleventy App
+---
+<h1>Gardening</h1>
+<body> Here you can see updates on my plants. I love growing everything, from tomatoes to venus flytraps (especially tomatoes). </body>
+{%- for update in collections.gardening-%}
+
+<h3> {{update.data.title}} </h3>
+{{update.templateContent|safe}}
+{%-endfor-%}

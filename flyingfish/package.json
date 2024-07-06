@@ -5,7 +5,9 @@
         "build": "eleventy"
     },
     "dependencies": {
+        "-": "^0.0.1",
         "@11ty/eleventy": "^2.0.1",
-        "rimraf": "^5.0.7"
+        "rimraf": "^5.0.7",
+        "victormono": "^1.5.6"
     }
 }

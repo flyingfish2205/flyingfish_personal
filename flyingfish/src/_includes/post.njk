@@ -11,14 +11,11 @@
 	<img src = "/assets/img/Website_banner_test_r.png">
 	<h1 class="centered">flyingfish</h1>
 	</div>
-	<div>
-	<h1>{{title}}</h1>
-	</div>
 	<div class = "menu">
 	<ul>
 	<li><a href="/index"> Home </a></li>
 	<li><a href="/about"> About </a> </li>
-	<li><a href="/blog"> Blog </a></li>
+	<li><a href="/weblog"> Weblog </a></li>
 	<li><a href="/aquariums"> Aquariums </a></li>
 	<li><a href="/gardening"> Gardening </a></li>
 	<li><a href="/music"> Music </a></li>
@@ -27,7 +24,10 @@
 	<li><a href="/other"> Other Stuff </a></li>
 	</div>
 	</ul>
+	<div class = "main">
+		<h1>{{title}}</h1>
 		{{ content | safe }}
+	</div>
 	</body>
 	<div>
 		{%- set prevPost = collections.post| getPreviousCollectionItem -%}
