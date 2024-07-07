@@ -1,0 +1,86 @@
+
+* {
+	box-sizing: border-box;
+}
+@font-face {
+	font-family: 'DOS ANK16' ;
+	src: url(Web437_DOS-V_re_ANK16.woff) format(woff);
+}
+
+@font-face {
+	font-family: 'Beekeeper';
+	src: url(TT2020Base-Regular.woff2) format(woff);
+}
+
+html {
+	overflow-y: scroll;
+}
+
+body {
+	background-color: #26428b;
+	color: #d9bd74;
+	font-family:'Beekeeper', 'DOS ANK16','Victor Mono', 'Courier';
+	font-size: 1.25rem;
+	line-height: 1.5;
+	margin: 0;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+.menu li{
+	list-style: none;
+}
+.menu {
+float:left;
+background-color: #263867;
+margin-left: 2.5%;
+padding-right:2.5%;
+padding-bottom:1%;
+padding-top: 1%;
+border-radius: 5%;
+color:#d9bd74;
+}
+
+.menu a{
+color:#d9bd74;
+text-decoration: none;
+}
+
+.post a{
+	color:#d9bd74;
+text-decoration: underline;
+}
+
+.post li{
+	list-style: none;
+	text-align: left;
+}
+
+.container {
+	position: relative;
+	text-align: center;
+	color: white;
+	margin-bottom: 2.5%;
+}
+
+.banner{
+	width: 100%;
+}
+
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.main {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+#site {
+	text-align: left;
+}
+
