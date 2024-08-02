@@ -49,6 +49,11 @@ color:#d9bd74;
 text-decoration: none;
 }
 
+.menu a:hover{
+	background-color: #d9bd74;
+	color:#263867;
+}
+
 .post a{
 	color:#d9bd74;
 text-decoration: underline;
