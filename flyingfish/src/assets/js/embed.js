@@ -31,8 +31,8 @@ async function exportHTML(){
     latestSpecies = mostRecentObs['species_guess'];  
     imageLink = mostRecentObs['photos'][0]['url'];
     date = mostRecentObs['created_at_details']['date'];
-    document.write("Most recent Inat Observation <br>");
-    document.write(`${latestSpecies}`);
+    //document.write("Most recent Inat Observation <br>");
+    //document.write(`${latestSpecies}`);
     //image =  document.createElement("img");
     //image.src = imageLink;
 }
