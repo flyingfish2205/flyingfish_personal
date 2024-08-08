@@ -5,7 +5,8 @@ title: Create Eleventy App
 <h1> Projects </h1>
 
 {%- for update in collections.projects-%}
-
+------------------------------------
 <h3> {{update.data.title}} </h3>
 {{update.templateContent|safe}}
+------------------------------------
 {%-endfor-%}
