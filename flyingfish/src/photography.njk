@@ -4,7 +4,7 @@ title: Create Eleventy App
 ---
 <h1>Photography</h1>
 <body>Pretty self explanatory, a gallery for pictures I've taken that I think are cool.</body>
-{%- for update in collections.photography-%}
+{%- for update in collections.photography|reverse-%}
 ------------------------------------
 <h3> {{update.data.title}} </h3>
 {{update.templateContent|safe}}

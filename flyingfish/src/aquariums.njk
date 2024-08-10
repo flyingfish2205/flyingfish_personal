@@ -6,7 +6,7 @@ title: Create Eleventy App
 <h1>Aquariums</h1>
 <body> I currently have two Aquariums. One is a 29 gallon community tank, and the other is a 10 gallon that is primarily for shrimp. <p> Both are unfinished, and I will be posting updates here.</body>
 <div>
-{%- for update in collections.aquariums-%}
+{%- for update in collections.aquariums|reverse-%}
 ------------------------------------
 <h3> {{update.data.title}} </h3>
 

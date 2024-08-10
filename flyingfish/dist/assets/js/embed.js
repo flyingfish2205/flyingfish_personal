@@ -31,10 +31,18 @@ async function exportHTML(){
     latestSpecies = mostRecentObs['species_guess'];  
     imageLink = mostRecentObs['photos'][0]['url'];
     date = mostRecentObs['created_at_details']['date'];
-    //document.write("Most recent Inat Observation <br>");
-    //document.write(`${latestSpecies}`);
-    //image =  document.createElement("img");
-    //image.src = imageLink;
+    var div = document.getElementById('inat');
+    var divImage = document.getElementById('image');
+    var divCaption = document.getElementById("caption");
+    const linebr = document.createElement("br");
+    div.append(`Most recent Inaturalist observation: \n`);
+
+    const image = new Image();
+    image.src = imageLink;
+    divImage.appendChild(image);
+    divCaption.append(`Species: ${latestSpecies}`);
+    divCaption.append(linebr);
+    divCaption.append(`Date: ${date}`);
 }
 
 formatData();

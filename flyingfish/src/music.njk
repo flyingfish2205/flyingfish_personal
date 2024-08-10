@@ -4,7 +4,7 @@ title: Create Eleventy App
 ---
 <h1>Music</h1>
 <body>Here you can check out any music I'm working on, as well as any process updates.</body>
-{%- for update in collections.music-%}
+{%- for update in collections.music|reverse-%}
 ------------------------------------
 <h3> {{update.data.title}} </h3>
 {{update.templateContent|safe}}
