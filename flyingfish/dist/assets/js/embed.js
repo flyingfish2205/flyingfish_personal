@@ -18,24 +18,20 @@ async function getData(){
 
 
 async function formatData(){
-    
-    console.log(latestSpecies);
-    console.log(date);
-    console.log(imageLink);
-    
+   
 }
 
 async function exportHTML(){   
-    data = await getData();
-    mostRecentObs = await data['results'][0];
-    latestSpecies = mostRecentObs['species_guess'];  
-    imageLink = mostRecentObs['photos'][0]['url'];
-    date = mostRecentObs['created_at_details']['date'];
+    var data = await getData();
+    var mostRecentObs = await data['results'][0];
+    var latestSpecies = await mostRecentObs['species_guess'];  
+    var imageLink = mostRecentObs['photos'][0]['url'];
+    var date = mostRecentObs['created_at_details']['date'];
     var div = document.getElementById('inat');
     var divImage = document.getElementById('image');
     var divCaption = document.getElementById("caption");
     const linebr = document.createElement("br");
-    div.append(`Most recent Inaturalist observation: \n`);
+    div.append(`Latest Inaturalist Observation: \n`);
 
     const image = new Image();
     image.src = imageLink;
@@ -43,7 +39,10 @@ async function exportHTML(){
     divCaption.append(`Species: ${latestSpecies}`);
     divCaption.append(linebr);
     divCaption.append(`Date: ${date}`);
-}
 
-formatData();
+    console.log(latestSpecies);
+    console.log(date);
+    console.log(imageLink);  
+  
+}
 exportHTML();

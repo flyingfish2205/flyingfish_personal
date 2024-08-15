@@ -34,15 +34,17 @@ code {
 	list-style: none;
 }
 .menu {
-float:left;
+
 background-color: #263867;
-margin-left: 2.5%;
+margin-left: 5%;
 padding-right:2.5%;
 padding-bottom:1%;
 padding-top: 1%;
-border-radius: 5%;
+border:outset;
+border-color: #263867;
 color:#d9bd74;
 }
+
 
 .menu a{
 color:#d9bd74;
@@ -82,12 +84,32 @@ text-decoration: underline;
 	transform: translate(-50%, -50%);
 }
 .main {
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 5%;
+	
 }
 
 .inat{
-	
+	background-color:#d9c798 ;
+	color:#263867;
+	height:200px;
+	width: 200px;
+	font-size: small;
+	border:outset;
+	border-color:#d9c798;
+	padding: 1%;
+	margin-top: 5%;
+	padding-bottom: 10%;
+}
+
+.column{
+	display:flex;
+	flex-direction: column;
+	margin-left: 5%;
+}
+
+.row{
+	display: flex;
+	flex-direction: row;
 }
 #site {
 	text-align: left;
