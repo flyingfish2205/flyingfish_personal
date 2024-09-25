@@ -9,6 +9,7 @@ title: Create Eleventy App
 {%- for update in collections.aquariums|reverse-%}
 ------------------------------------
 <h3> {{update.data.title}} </h3>
+<h4>{{update.date.toUTCString()}}</h4>
 
 {{update.templateContent|safe}}
 ------------------------------------
