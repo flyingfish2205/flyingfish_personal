@@ -4,7 +4,7 @@ tags: aquariums
 permalink: false
 ---
 
-The shrimp tank has grown a lot since I last posted. The plants have grown significantly (especially the water lettuce and dwarf sag).  Some plant’s I didn’t even know I had started showing up as well, like duckweed, which is a pain to remove. The pearlweed unfortunately melted away, leaving me with a cooked-spinach like goop on the bottom of my tank. Thankfully the snails and copepods made quick work of the mess.
+The shrimp tank has grown a lot since I last posted. The plants have grown significantly (especially the water lettuce and dwarf sag).  Some plants I didn’t even know I had started showing up as well, like duckweed, which is a pain to remove. The pearlweed unfortunately melted away, leaving me with a cooked-spinach like goop on the bottom of my tank. Thankfully the snails and copepods made quick work of the mess.
 
 Before I even had the chance to add shrimp, animal life had started to appear in the tank. Copepods were the first to show up, and soon I began seeing Rhabdocoela, a type of flatworm.  Without any competition or predators, their populations exploded.  
 
