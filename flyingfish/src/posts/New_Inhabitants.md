@@ -10,7 +10,7 @@ Before I even had the chance to add shrimp, animal life had started to appear in
 
 The plants I got also came with some unexpected hitchhikers - 6 tiny ramshorn snails, barely bigger than a pinhead. They were a welcome surprise, and quickly dealt with most algae in the tank.
 
-There’s also this weird floating mass of what looks like some kind of fern. Hopefully I can 
+There’s also this weird floating mass of what looks like some kind of fern. Hopefully I can ID it soon! 
 
 After testing the water (and ensuring that the Kh was correct, something I learned the hard way), I picked up 5 Red Rili shrimp from Cuboid Aquariums. They’ve got a great selection of fish and plants, as well as some really neat display tanks. Really worth checking out if you’re in the New Hope area.
 
