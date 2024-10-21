@@ -85,6 +85,7 @@ text-decoration: underline;
 }
 .main {
 	margin-left: 5%;
+	margin-right: 5%;
 	
 }
 
@@ -113,5 +114,13 @@ text-decoration: underline;
 }
 #site {
 	text-align: left;
+}
+
+.button a{
+	color:#d9bd74;
+}
+
+.button a:hover{
+	
 }
 

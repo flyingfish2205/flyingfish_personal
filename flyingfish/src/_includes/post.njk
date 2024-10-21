@@ -1,35 +1,12 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang }}">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>{{ title }}</title>
-		<link rel="stylesheet" href="/assets\css/style.css" />
-	</head>
-	<body>
-	<div class="container">
-	<img src = "/assets/img/Website_banner_test_r.png">
-	<h1 class="centered">flyingfish</h1>
-	</div>
-	<div class = "menu">
-	<ul>
-	<li><a href="/index"> Home </a></li>
-	<li><a href="/about"> About </a> </li>
-	<li><a href="/weblog"> Weblog </a></li>
-	<li><a href="/aquariums"> Aquariums </a></li>
-	<li><a href="/gardening"> Gardening </a></li>
-	<li><a href="/music"> Music </a></li>
-	<li><a href="/Photography"> Photography</a></li>
-	<li><a href="/projects"> Projects </a></li>
-	<li><a href="/other"> Other Stuff </a></li>
-	</div>
-	</ul>
+---
+layout: base.njk
+---
 	<div class = "main">
 		<h1>{{title}}</h1>
 		{{ content | safe }}
 	</div>
 	</body>
-	<div class = >
+	<div class = "">
 		{%- set prevPost = collections.post| getPreviousCollectionItem -%}
 		{%- set nextPost = collections.post| getNextCollectionItem -%}
 		<a href = {{prevPost.url}}>Previous</a>
