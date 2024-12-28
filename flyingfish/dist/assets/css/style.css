@@ -36,8 +36,7 @@ code {
 .menu {
 
 background-color: #263867;
-
-padding-right:5%;
+padding-right:110%;
 padding-bottom:1%;
 padding-top: 1%;
 border:outset;
@@ -102,15 +101,12 @@ text-decoration: underline;
 	padding-right: 5%;
 }
 
-.column{
-	display:flex;
-	flex-direction: column;
-	margin-left: 5%;
-}
+
 
 .row{
 	display: flex;
 	flex-direction: row;
+	margin-left:5%;
 }
 #site {
 	text-align: left;
