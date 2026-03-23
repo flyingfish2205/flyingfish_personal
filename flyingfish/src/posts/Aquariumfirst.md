@@ -1,7 +1,7 @@
 ---
 title: first update!
 tags: aquariums
-permalink: false
+postdate: 01/01/1970
 ---
 If I'm going to track my progress, I've got to establish a baseline first. Here's what my aquariums look like as of 7/30/2024.
 I've got a bunch of updates planned including:
