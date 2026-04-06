@@ -33,7 +33,7 @@ Sometime in February, one of my friends invited me to a lunar new year event hos
 
 That interaction meant so much to me. There are still people who care. There are still people who give a shit. The world isn’t so bad.
 
-Thank you, strange woman. We’ll probably never see each other again, and even if we do it’s unlikely that we’ll recognize each other. Even so, I hope we run into each other again. I hope I can thank you properly
+Thank you, strange woman. We’ll probably never see each other again, and even if we do it’s unlikely that we’ll recognize each other. Even so, I hope we run into each other again. I hope I can thank you properly.
 
 
 And thank you, dear reader, for still reading this blog after my 8 month long hiatus. I’ll try to post more often I swear!!
