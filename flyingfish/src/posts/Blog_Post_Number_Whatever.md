@@ -1,7 +1,6 @@
 ---
 layout: post.njk
 title: Blog post number whatever - life updates and such
-date: 4/05/22
 tags: post
 ---
 
