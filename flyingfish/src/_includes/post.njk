@@ -6,7 +6,7 @@ layout: base.njk
 		{{ content | safe }}
 	</div>
 	</body>
-	<div class = "">
+	<div class = "post">
 		{%- set prevPost = collections.post| getPreviousCollectionItem -%}
 		{%- set nextPost = collections.post| getNextCollectionItem -%}
 		<a href = {{prevPost.url}}>Previous</a>
