@@ -14,5 +14,5 @@ Either way, the redbud will always have a special place in my heart. I love you,
 
 Some doodles of the flowers and leaves (Kept the white background for now bc idk how well the pink would show up on this site):
 <div>
-<img src = "\assets\img\redbud.png" width = 50% length = "50%">
+<img src = "\assets\img\redbud.png" width = 50% length = "50%" loading = "lazy">
 </div>
