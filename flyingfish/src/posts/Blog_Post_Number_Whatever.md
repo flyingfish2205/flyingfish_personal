@@ -15,7 +15,7 @@ It’s been an interesting few months since I last updated this blog. I’ve sin
 I’ve made a lot of good friends at Maryland, and I’m honestly enjoying college a lot more than high school. People are a lot more open to talking and meeting new people than in high school. I suppose that makes sense as most people don’t come in with pre-existing friend groups like in high school, so every freshman’s just trying to find human connection. I’m also forced to go outside every day instead of being a shut in NEET like I was in high school, which in turn forces me to actually interact with people. 
 
 <div>
-<img src = "\assets\img\chud.png" width = "50%" length = "50%">
+<img src = "\assets\img\chud.png" width = "50%" length = "50%" loading = "lazy">
 </div>
 
 That being said, it’s been a bit jarring adjusting to this new life. I still sometimes struggle with self sabotage, often not talking to people who I’ve met out of fear of being overbearing or annoying. I’ve been getting better at this though, especially as I’ve gotten closer with the people I’ve met so far and meeting new people on campus. 
@@ -23,7 +23,7 @@ That being said, it’s been a bit jarring adjusting to this new life. I still s
 Another thing that I realized was kinda keeping me down was instagram, which I deleted recently over spring break. I used to spend almost 5 hours a day on instagram alone. 5 hours that I could use to hang out with my friends, make music, or even fix this shitty website. I’m hoping that deleting it will help me be more present in the real world. We’ll see in a few months I guess. I really want my attention span back.
 
 <div>
-<img src = "\assets\img\cropped_phone.png" width = "50%" length = "50%">
+<img src = "\assets\img\cropped_phone.png" width = "50%" length = "50%" loading = "lazy">
 </div>
 
 I’d like to finish with an anecdote. One that made me realize that there is still hope in the world.
