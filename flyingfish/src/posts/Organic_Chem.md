@@ -16,7 +16,7 @@ That’s about all I have to say for this post, philosophically. Now onto some f
 
 I’ve recently been listening to this Indonesian band called Crayon Case. They make solid indie pop/shoegaze adjacent music, which I would best describe as the essence of a mischievous summer evening. Like all the times Ryan and I would sneak through the hole in the skatepark fence or go geocaching in the woods near our homes. Or like, digging a giant hole at the beach before you get told off by the lifeguards. 
 
-I’d recommend their EP Catch Twenty-Three !! as a good jumping off point, as well as their new single “Surabaya”. They don’t have much music but I hope they keep making more stuff. I also think it’s nice that an asian band that's not from Korea or Japan is getting some level of spotlight, even if they aren’t that big yet.
+I’d recommend their EP "Catch Twenty-Three !!" as a good jumping off point, as well as their new single “Surabaya”. They don’t have much music but I hope they keep making more stuff. I also think it’s nice that an asian band that's not from Korea or Japan is getting some level of spotlight, even if they aren’t that big yet.
 
 Peace out,
 
