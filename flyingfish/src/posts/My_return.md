@@ -17,6 +17,7 @@ Recently, I’ve been listening to a band called Trooper Salute. They’re an in
 They’ve recently released their first album, “友達がいました”, which I love from start to finish. I don’t understand any of the lyrics as I don’t speak japanese but the production is amazing. There are moments in the saxophone/guitar/synth parts where I just think to myself “wow, I wish I could play like that”. They’re the kind of band that makes you want to start a band, especially if you play something other than the standard guitar/bass/drum combo. I highly recommend checking them out.
 
 Until next time, 
+
 flyingfish
 
 (Unfortunately no drawing this time, but I’ll work on one for the next post! College is hard!)
