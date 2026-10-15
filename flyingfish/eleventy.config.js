@@ -1,4 +1,9 @@
 const { DateTime } = require("luxon");
+const pugPlugin = require("@11ty/eleventy-plugin-pug");
+
+module.exports = function (eleventyConfig) {
+	eleventyConfig.addPlugin(pugPlugin);
+}
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
@@ -14,7 +19,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src\\assets\\css");
   eleventyConfig.addPassthroughCopy("src\\assets\\js");
   eleventyConfig.addPassthroughCopy("src\\assets\\img");
-
+  
   return {
     dir: {
       input: "src",
@@ -24,6 +29,10 @@ module.exports = function (eleventyConfig) {
     },
   };
 };
+
+
+
+
 
 
 
